@@ -25,9 +25,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Probado en:**   
+**Tamaño proyecto:** 70MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -36,19 +35,16 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
+- Tick Tok
+- Instagram 
 
 
-![girl](WalkingGirl_front01.png)
+![IMG](Portada (1).jpg)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Inicialmente hay una breve presentación que nos llevará a un menú principal, donde se encontrará el botón de la galería de mis proyectos, esta está realizada a modo de carrusel, por el cual los espectadores podrán ver un poco de mi obra ded manera más entretenida. Posteriormente encontraremos el apartado de "mis obras", la cual nos llevará a diferentes secciones: pintura, dibujo y escultura. Cuando entramos a alguno de estos apartados enontraremos tres obras claves y un pequeño personaje, este tendremos que moverlo de lado a lado y saltar, en caso de que toque a alguna de estas obras nos llevará a un subapartado en la que se nos presentará una explicación de esta, por lo que sabremos un poquito más de la pieza. Esta dinámica será la misma en los tres ámbitos artísticos.
 
 
 
