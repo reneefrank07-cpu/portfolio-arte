@@ -6,7 +6,7 @@
 
 
 <!---- Portada ----> 
-<img align="center" src="WalkingGirl_front01.png" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="Portada.jpg" width="300" height=auto alt="Logotipo"/>
 
 
 
