@@ -9,7 +9,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 **Titulo** : Portfolio
-**Web:**   (url github.io)
+**Web:**   https://renee-cendejas-frank.itch.io/portfolio
 
 **Autor:**  Renée Cendejas Frank
 
