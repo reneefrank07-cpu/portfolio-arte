@@ -36,8 +36,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Tick Tok
-- Instagram 
+- itch.io
 
 
 ![img](Portada.jpg)
