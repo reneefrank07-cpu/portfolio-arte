@@ -39,14 +39,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram 
 
 
-![IMG](Portada (1).jpg)
+![img](Portada (1).jpg)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 Inicialmente hay una breve presentación que nos llevará a un menú principal, donde se encontrará el botón de la galería de mis proyectos, esta está realizada a modo de carrusel, por el cual los espectadores podrán ver un poco de mi obra ded manera más entretenida. Posteriormente encontraremos el apartado de "mis obras", la cual nos llevará a diferentes secciones: pintura, dibujo y escultura. Cuando entramos a alguno de estos apartados enontraremos tres obras claves y un pequeño personaje, este tendremos que moverlo de lado a lado y saltar, en caso de que toque a alguna de estas obras nos llevará a un subapartado en la que se nos presentará una explicación de esta, por lo que sabremos un poquito más de la pieza. Esta dinámica será la misma en los tres ámbitos artísticos.
 
-
+![img](Storyb.jpg)
 
 ### 2.2. Esquema de navegación 
 
@@ -77,13 +77,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Considero que puede ser un proyecto interesante ya que ahora en un mundo lleno de redes sociales y tecnologías, sigue siendo complicada la visibilidad de los artistas. Esto se debe a que al haber tanto contenido sin límite la genete no se detiene a contemplar proyectos, por eso hacer un portfolio a modo de juego o de una manera más interactiva, puede capturar un poco más la atención de la gente.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a publico abierto, ya sea por visualizar contenido, como presentarlo como proyecto, o incluso para gente que se plantee hacerm4e algun pedido y conozca un poco más de mi y mis piezas. 
 
 
 
@@ -91,19 +91,18 @@ Este  proyecto es interesante porque ...
 
 ## Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
+- texto de guía sobre las obras
+- Galería
 - Menús y elementos de navegación (botones)
-- etc.
+
 
 
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Considera que aun no funciona muy bien el tema de interactividad, creo que debería ser aun más dinámico y el personaje debería estar más acorte a la estética del portfolio.
 
 
 
