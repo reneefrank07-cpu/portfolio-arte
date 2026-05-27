@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Portfolio de artista
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,17 +8,16 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
-
+**Titulo** : Portfolio
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  Renée Cendejas Frank
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto os mostrará un poco de mis proyerctos como artista emergente y estudiante de la facultad de bellas artes. Incluye en algunos de sus apartados una explicación sobre mi proceso y datos de algunas de mis obras más significativas.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Portfolio
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
