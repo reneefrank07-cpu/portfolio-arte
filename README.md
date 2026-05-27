@@ -23,9 +23,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 1152x648
 
-**Probado en:**   
+**Probado en:**  Godot, itch.io
+
 **Tamaño proyecto:** 70MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
@@ -48,15 +49,9 @@ Inicialmente hay una breve presentación que nos llevará a un menú principal, 
 
 ![img](Storyb.jpg)
 
+
+
 ### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
 
 
 
@@ -69,9 +64,6 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 ## Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
 
 
 
@@ -108,10 +100,7 @@ Considera que aun no funciona muy bien el tema de interactividad, creo que deber
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
+Ha sido un proyercto dificil de realizar, personalmente no suelo usar progamas digitales tan complejos, pero creo que con un tiempo más amplio podría haber realizado un proyecto mejor. No obstante, estoy contenta con el resultado, ya que a pesar de tener ningun conocimiento previo he podido hacer un portfolio funcional y bonito que presente mis proyectos de otra manera.
 
 
 
@@ -120,7 +109,7 @@ Considera que aun no funciona muy bien el tema de interactividad, creo que deber
 
 **Artículos y blogs** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+
 
 **Recursos y materiales audiovisuales:**
 
@@ -130,8 +119,8 @@ Considera que aun no funciona muy bien el tema de interactividad, creo que deber
 
 **Herramientas utilizadas**
 
-- Godot Engine 4.x
-- 
+- Godot Engine 4.2
+ 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
 https://creativecommons.org/licenses/?lang=es
